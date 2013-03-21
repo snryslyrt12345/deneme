@@ -3,6 +3,8 @@
 
 int main()
 {
-    printf("Hello world!\n");
+
+    printf("Soner Yesilyurt\n");
+    printf("Hello!\n");
     return 0;
 }
